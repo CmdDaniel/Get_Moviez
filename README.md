@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">An Android dev_normie from India</h3>
 
-- 🌱 This project demonstrates communication between RestAPI and Android using **("Retrofit2", "Okhttp3" for API calls), ("Glide" for Image Loading)**
+- 🌱 This small project demonstrates communication between RestAPI and Android using **("Retrofit2", "Okhttp3" for API calls), ("Glide" for Image Loading)**
 
 
-- 📝 In a sentence, This app **fetches data from tmdb.org's API and displays them**
+- 📝 In a sentence, This app simply **fetches data from tmdb.org's API and displays them**
 
 
 
