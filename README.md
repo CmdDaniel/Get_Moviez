@@ -11,7 +11,7 @@
 - 🔭  Below is a somewhat detailed sketch of what it does under the hood **↓**
 
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVObu2xJE=/?pres=1&frameId=3458764515570647980" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<img width="768" height="432" src="https://miro.com/app/embed/uXjVObu2xJE=/?pres=1&frameId=3458764515570647980" frameBorder="0" scrolling="no" allowFullScreen></img>
 
 
 <h3 align="left">Connect with me:</h3>
