@@ -3,10 +3,15 @@
 
 - 🌱 This project demonstrates communication between RestAPI and Android using **("Retrofit2", "Okhttp3" for API calls), ("Glide" for Image Loading)**
 
+
 - 📝 In a sentence, This app **fetches data from tmdb.org's API and displays them**
 
-- 🔭  This is a somewhat detailed sketch of what it does under the hood **↓**
 
+
+- 🔭  Below is a somewhat detailed sketch of what it does under the hood **↓**
+
+
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVObu2xJE=/?pres=1&frameId=3458764515570647980" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 
 <h3 align="left">Connect with me:</h3>
