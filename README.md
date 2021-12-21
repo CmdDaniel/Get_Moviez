@@ -8,7 +8,7 @@
 
 
 
-- 🔭  Below is a somewhat detailed sketch of what it does under the hood **↓**
+- 🔭  Below is a sketch of "how it looks" and "what it does" under the hood **↓**
 
 
 
