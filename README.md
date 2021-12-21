@@ -12,7 +12,7 @@
 
 
 
-![ App Architecture shown Here... ](https://github.com/CmdDaniel/Get_Moviez/appArchitecture.jpg?raw=true)
+![ App Architecture shown Here... ](https://github.com/CmdDaniel/Get_Moviez/blob/appArchitecture.jpg)
 
 
 <h3 align="left">Connect with me:</h3>
