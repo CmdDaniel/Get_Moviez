@@ -11,7 +11,8 @@
 - 🔭  Below is a somewhat detailed sketch of what it does under the hood **↓**
 
 
-![ App Architecture shown Here... ](https://github.com/CmdDaniel/Get_Moviez/App%20Architectture.jpg?raw=true)
+
+![ App Architecture shown Here... ](https://github.com/CmdDaniel/Get_Moviez/App Architecture.jpg?raw=true)
 
 
 <h3 align="left">Connect with me:</h3>
