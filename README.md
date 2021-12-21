@@ -15,6 +15,8 @@
 ![ App Architecture shown Here... ](https://github.com/CmdDaniel/Get_Moviez/blob/master/appArchitecture.jpg)
 
 
+![ App Pathway shown Here... ](https://github.com/CmdDaniel/Get_Moviez/blob/master/appPathway.jpg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
